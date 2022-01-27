@@ -1,0 +1,6 @@
+ Match object has properties and methods used to retrieve information about searchan. 
+the resultspan returns a tuple containing  start.
+ and end positions of match.
+string returns  string passed into  functiongroupreturns.
+ the part of the string where there was a match
+
